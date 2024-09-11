@@ -1,4 +1,4 @@
-1. Variables
+ Variables
 1.	Swapping Values: Write a program that swaps the values of two variables a and b if they are different. Use an if statement to check if the values are different before swapping.
 Test Case:
 o	Input: a = 5, b = 10
